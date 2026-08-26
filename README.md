@@ -48,6 +48,7 @@ I pride myself on being dedicated to continuous, autonomous learning in order to
 - **Ram:** 16 GB
 - **Operative System:** Ubuntu 26.04
 - **Graphic Card:** Nvidia GTX 1650
+- **Processor:** Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz
 
 ## Tools
 
