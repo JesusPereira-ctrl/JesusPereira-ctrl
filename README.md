@@ -58,3 +58,13 @@ I pride myself on being dedicated to continuous, autonomous learning in order to
 - **Version Control:** Git
 - **Terminal:** Warp + Zsh or default terminal of Linux
 - **Browser:** Firefox
+
+## Linux Gnome Extensions
+
+- **Coverflow Alt-Tab:** Customize Alt + Tab action
+- **Emoji Copy:** Copy emojis for write
+- **Lock Keys:** Alert of mayus activation
+- **Shotzy:** Qr Scanner on the screenshot function in linux
+- **Tilling Shell:** Customize Layout for development
+- **Waywallen:** A customize for wallpapers
+- **Date Menu Formatter:** Format of date
