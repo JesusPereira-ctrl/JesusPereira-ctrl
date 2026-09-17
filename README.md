@@ -12,27 +12,23 @@ I pride myself on being dedicated to continuous, autonomous learning in order to
 
 <div style="display: flex; gap: 20px;">
   <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </div>
 
 ### Backend Development
 
 <div>
-  <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />         
-  <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />    
+  <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />      
 </div>
 
 ### Mobile Development
 
 <div style="display: flex; gap: 20px;">
-  <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />         
-  <img width="100" src="https://images.icon-icons.com/2389/PNG/512/expo_logo_icon_145293.png" />         
+  <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />       
 </div>
 
 ### Automations
            
 <div style="display: flex; gap: 20px;">
-  <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="100" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/n8n-icon.png" />
 </div>
 
