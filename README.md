@@ -17,19 +17,7 @@ I pride myself on being dedicated to continuous, autonomous learning in order to
 ### Backend Development
 
 <div>
-  <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />      
-</div>
-
-### Mobile Development
-
-<div style="display: flex; gap: 20px;">
-  <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />       
-</div>
-
-### Automations
-           
-<div style="display: flex; gap: 20px;">
-  <img width="100" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/n8n-icon.png" />
+  <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />      
 </div>
 
 ## Studies
